@@ -1,0 +1,9 @@
+*.bin
+*.img
+*.sh
+*.xml
+*.exe
+.idea
+android-keybox-extractor*
+.DS_Store
+Thumbs.db
